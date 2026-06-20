@@ -19,10 +19,15 @@ JavaScript (interactividad y dinámicas básicas)
 <br><br>
 
 ✨ Funcionalidades
+<br><br>
 📱 Diseño totalmente responsive adaptado a móvil, tablet y escritorio
+<br><br>
 🧭 Navegación intuitiva y fluida
+<br><br>
 🎨 Diseño visual moderno inspirado en branding de restauración
+<br><br>
 ⚡ Interactividad básica mediante JavaScript
+<br><br>
 🧩 Estructura modular de secciones (menú, presentación, información, etc.)
 <br><br>
 
